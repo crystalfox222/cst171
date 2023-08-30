@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\edythe\documents\school\cst171\final\final\imageascii.hpp(38): warning C4018: '>': signed/unsigned mismatch
+c:\users\edythe\documents\school\cst171\final\final\imageascii.hpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\edythe\documents\school\cst171\final\final\imageascii.hpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\edythe\documents\school\cst171\final\final\game.hpp(199): warning C4715: 'Game::processEventsE': not all control paths return a value
+c:\users\edythe\documents\school\cst171\final\final\game.hpp(191): warning C4715: 'Game::exit': not all control paths return a value
+  final.vcxproj -> C:\Users\Edythe\Documents\School\cst171\final\Debug\final.exe
