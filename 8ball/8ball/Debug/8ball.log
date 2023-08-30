@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\edythe\documents\school\cst171\8ball\8ball\main.cpp(80): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  8ball.vcxproj -> C:\Users\Edythe\Documents\School\cst171\8ball\Debug\8ball.exe

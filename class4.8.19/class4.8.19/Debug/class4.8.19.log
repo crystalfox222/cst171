@@ -1,0 +1,4 @@
+﻿  pi_main.cpp
+c:\users\edythe\documents\school\cst171\class4.8.19\class4.8.19\pi_main.cpp(29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\edythe\documents\school\cst171\class4.8.19\class4.8.19\pi_main.cpp(30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  class4.8.19.vcxproj -> C:\Users\Edythe\Documents\School\cst171\class4.8.19\Debug\class4.8.19.exe

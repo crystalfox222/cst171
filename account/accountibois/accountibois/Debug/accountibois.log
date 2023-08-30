@@ -1,0 +1,5 @@
+﻿  AccountTest.cpp
+c:\users\edythe\desktop\account\accounttest.cpp(12): warning C4101: 'balance': unreferenced local variable
+c:\users\edythe\desktop\account\accounttest.cpp(11): warning C4101: 'y': unreferenced local variable
+c:\users\edythe\desktop\account\accounttest.cpp(10): warning C4101: 'x': unreferenced local variable
+  accountibois.vcxproj -> C:\Users\Edythe\Desktop\account\accountibois\Debug\accountibois.exe

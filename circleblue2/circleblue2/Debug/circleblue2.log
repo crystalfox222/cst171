@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\edythe\documents\school\cst171\circleblue2\circleblue2\circle.h(11): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\edythe\documents\school\cst171\circleblue2\circleblue2\circle.h(15): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\edythe\documents\school\cst171\circleblue2\circleblue2\circle.h(44): warning C4101: 'choice': unreferenced local variable
+  circleblue2.vcxproj -> C:\Users\Edythe\Documents\School\cst171\circleblue2\Debug\circleblue2.exe
