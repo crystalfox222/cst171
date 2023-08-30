@@ -1,0 +1,5 @@
+﻿  account_loops_main.cpp
+c:\users\edythe\desktop\loopy\account_loops_,main\account_loops_,main\account_loops_main.cpp(23): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\edythe\desktop\loopy\account_loops_,main\account_loops_,main\account_loops_main.cpp(26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\edythe\desktop\loopy\account_loops_,main\account_loops_,main\account_loops_main.cpp(39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  account_loops_,main.vcxproj -> C:\Users\Edythe\Desktop\loopy\account_loops_,main\Debug\account_loops_,main.exe
